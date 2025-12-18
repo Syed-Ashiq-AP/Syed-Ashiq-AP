@@ -1,4 +1,4 @@
-![Hero banner](https://raw.githubusercontent.com/Syed-Ashiq-AP/Syed-Ashiq-AP/refs/heads/main/images/banner.svg)
+![Hero banner](https://raw.githubusercontent.com/Syed-Ashiq-AP/Syed-Ashiq-AP/refs/heads/main/images/banner.jpg)
 
 # 💫 About Me:
 🔭 I’m currently working on VS Code clone<br>🌱 I’m currently learning Go Lang
